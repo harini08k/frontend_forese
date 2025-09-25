@@ -4,7 +4,6 @@
 A simple, elegant, and responsive **To-Do List** application built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project allows users to manage their tasks efficiently with local storage support — no backend required.
 
 ![Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here) <!-- Replace with actual screenshot if desired -->
-
 ---
 
 ## 🚀 Features
@@ -90,12 +89,6 @@ Made with ❤️ by Harini
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 🙌 Acknowledgements
 
 * Vanilla JS To-Do app inspiration from beginner-friendly UI challenges
@@ -116,6 +109,4 @@ This project is open-source and available under the **MIT License**.
   ```bash
   git checkout -b gh-pages
   git push origin gh-pages
-````
 
-Would you like help generating a screenshot for the README or setting up GitHub Pages?
