@@ -52,7 +52,7 @@ todo_app/todo
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
