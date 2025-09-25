@@ -1,7 +1,9 @@
 ### To-Do List Web App
 
-```markdown
 A simple, elegant, and responsive **To-Do List** application built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project allows users to manage their tasks efficiently with local storage support — no backend required.
+
+![WhatsApp Image 2025-09-25 at 11 52 41_762d22ee](https://github.com/user-attachments/assets/88195e17-f358-4171-905f-44fbec76b6ff)
+
 
 ![Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here) <!-- Replace with actual screenshot if desired -->
 ---
