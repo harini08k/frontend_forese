@@ -76,7 +76,8 @@ xdg-open index.html     # Linux
 ## Screenshots
 
 ![WhatsApp Image 2025-09-25 at 11 52 41_762d22ee](https://github.com/user-attachments/assets/88195e17-f358-4171-905f-44fbec76b6ff)
-![WhatsApp Image 2025-09-25 at 11 53 58_c954ec85](https://github.com/user-attachments/assets/c58d1ffd-ba04-489d-a36d-bc4eaabfdda2)
+<img width="953" height="470" alt="image" src="https://github.com/user-attachments/assets/925f4482-4ff8-4db8-b822-3a34a408741e" />
+
 
 ---
 
