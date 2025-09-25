@@ -2,24 +2,22 @@
 
 A simple, elegant, and responsive **To-Do List** application built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project allows users to manage their tasks efficiently with local storage support — no backend required.
 
-![WhatsApp Image 2025-09-25 at 11 52 41_762d22ee](https://github.com/user-attachments/assets/88195e17-f358-4171-905f-44fbec76b6ff)
-
-
-![Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here) <!-- Replace with actual screenshot if desired -->
----
-
-## 🚀 Features
-
-- ✅ Add new to-do items
-- ✏️ Edit existing tasks inline
-- ✔️ Mark tasks as complete/incomplete
-- 🗑️ Delete all tasks
-- 📦 Persistent storage using `localStorage`
-- 📱 Fully responsive and mobile-friendly design
+![WhatsApp Image 2025-09-25 at 11 54 52_fbb906a6](https://github.com/user-attachments/assets/32258487-1176-4bc6-a424-fc077ac52eae)
 
 ---
 
-## 💻 Tech Stack
+## Features
+
+- Add new to-do items
+- Edit existing tasks inline
+- Mark tasks as complete/incomplete
+- Delete all tasks
+- Persistent storage using `localStorage`
+- Fully responsive and mobile-friendly design
+
+---
+
+## Tech Stack
 
 | Layer       | Technology         |
 |-------------|--------------------|
@@ -30,28 +28,25 @@ A simple, elegant, and responsive **To-Do List** application built using **HTML*
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
-frontend_forese/
+todo_app/todo
 ├── index.html          # Main HTML structure
 ├── style.css           # Styling and layout
 ├── script.js           # JS logic for the app
-└── README.md           # Project documentation
 
 ````
 
----
-
-## 🧠 How It Works
+## How It Works
 
 - Tasks are stored as objects in an array, and saved to `localStorage`.
 - When the page loads, it checks for any existing tasks and renders them.
 - Each task supports:
-  - ✅ Checkbox to toggle completion
-  - ✏️ Click-to-edit functionality
-  - 🗑️ Delete all tasks button
+  - Checkbox to toggle completion
+  - Click-to-edit functionality
+  - Delete all tasks button
 - Styling is handled with custom CSS, including scrollbars and responsive design.
 
 ---
@@ -61,8 +56,8 @@ frontend_forese/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/harini08k/frontend_forese.git
-cd frontend_forese
+git clone https://github.com/harini08k/todo_app.git
+cd todo_app
 ````
 
 ### 2. Open in Browser
@@ -79,14 +74,14 @@ xdg-open index.html     # Linux
 
 ## 📸 Screenshots
 
-> *(Add real screenshots here if you have them to showcase the UI)*
+![WhatsApp Image 2025-09-25 at 11 52 41_762d22ee](https://github.com/user-attachments/assets/88195e17-f358-4171-905f-44fbec76b6ff)
+![WhatsApp Image 2025-09-25 at 11 53 58_c954ec85](https://github.com/user-attachments/assets/c58d1ffd-ba04-489d-a36d-bc4eaabfdda2)
 
 ---
 
 ## 👩‍💻 Author
 
-**Harini**
-Made with ❤️ by Harini
+**Harini Karthikeyan**
 [GitHub Profile](https://github.com/harini08k)
 
 ---
@@ -96,19 +91,4 @@ Made with ❤️ by Harini
 * Vanilla JS To-Do app inspiration from beginner-friendly UI challenges
 * LocalStorage documentation - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
----
-
-⭐ If you like this project, consider giving it a [star ⭐ on GitHub](https://github.com/harini08k/frontend_forese)!
-
 ````
-
----
-
-### ✅ Next Steps (Optional but Recommended)
-- Add a **project screenshot** (replace the placeholder).
-- Add a **LICENSE** file if you haven’t.
-- Consider deploying your project using **GitHub Pages**:
-  ```bash
-  git checkout -b gh-pages
-  git push origin gh-pages
-
