@@ -73,23 +73,21 @@ xdg-open index.html     # Linux
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![WhatsApp Image 2025-09-25 at 11 52 41_762d22ee](https://github.com/user-attachments/assets/88195e17-f358-4171-905f-44fbec76b6ff)
 ![WhatsApp Image 2025-09-25 at 11 53 58_c954ec85](https://github.com/user-attachments/assets/c58d1ffd-ba04-489d-a36d-bc4eaabfdda2)
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Harini Karthikeyan**
 [GitHub Profile](https://github.com/harini08k)
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * Vanilla JS To-Do app inspiration from beginner-friendly UI challenges
 * LocalStorage documentation - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-
-````
