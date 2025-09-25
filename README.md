@@ -1,7 +1,7 @@
 ---
 ## To-Do List Web App
 
-A simple, elegant, and responsive **To-Do List** application built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project allows users to manage their tasks efficiently with local storage support — no backend required.
+A simple, elegant, and responsive **To-Do List** application built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project allows users to manage their tasks efficiently with local storage support, no backend required.
 
 ![WhatsApp Image 2025-09-25 at 11 54 52_fbb906a6](https://github.com/user-attachments/assets/32258487-1176-4bc6-a424-fc077ac52eae)
 
