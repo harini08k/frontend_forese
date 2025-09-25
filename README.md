@@ -1,8 +1,6 @@
-### ✅ `README.md` for `frontend_forese`
+### To-Do List Web App
 
 ```markdown
-# 📝 To-Do List Web App
-
 A simple, elegant, and responsive **To-Do List** application built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project allows users to manage their tasks efficiently with local storage support — no backend required.
 
 ![Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here) <!-- Replace with actual screenshot if desired -->
